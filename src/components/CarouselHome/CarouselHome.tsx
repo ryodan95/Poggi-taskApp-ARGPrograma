@@ -5,27 +5,27 @@ const CarouselHome = () => {
   return (
     <Carousel>
       <Carousel.Item>
-       <img className="d block w-100" style={{maxHeight: "500px", objectFit: "cover"}} src="public/assets/images/concepto-collage-html-css-persona_23-2150062008.avif" alt="slide1" />
+       <img className="d block w-100" style={{maxHeight: "500px", objectFit: "cover"}} src="https://images.unsplash.com/photo-1617529520608-42a0fe601be2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="slide1" />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>Primer Slide</h3>
+          <p>Foto de Programación.</p>
         </Carousel.Caption>
       </Carousel.Item>
 
       <Carousel.Item>
-      <img className="d block w-100" style={{maxHeight: "500px", objectFit: "cover"}} src="public/assets/images/collage-fondo-programacion_23-2149901774.jpg" alt="slide2" />
+      <img className="d block w-100" style={{maxHeight: "500px", objectFit: "cover"}} src="https://images.unsplash.com/photo-1592609931095-54a2168ae893?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="slide2" />
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Segundo slide</h3>
+          <p>Programación y más Programacion.</p>
         </Carousel.Caption>
       </Carousel.Item>
 
       <Carousel.Item>
-      <img className="d block w-100" style={{maxHeight: "500px", objectFit: "cover"}} src="public/assets/images/gente-negocios-organizando-varias-notas-adhesivas-texto-vidrio-oficina_662251-1531.avif" alt="slide3" />
+      <img className="d block w-100" style={{maxHeight: "500px", objectFit: "cover"}} src="https://images.unsplash.com/photo-1587620931276-d97f425f62b9?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="slide3" />
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>Tercer slide</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            Programación pero en una laptop negra.
           </p>
         </Carousel.Caption>
       </Carousel.Item>
